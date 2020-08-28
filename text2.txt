@@ -1,1 +1,2 @@
+insert new line second branch
 Added new line in text2 file
